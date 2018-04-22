@@ -40,17 +40,17 @@ Thank you for signing up to R-Ladies remote. We've had an incredible response fr
 
 #Slack Group
 
-We have a R-Ladies Remote Slack Group. Your invitation is here - please join and meet other remote R-ladies
+We have a R-Ladies Remote Slack Group. Your invitation is here - please join and meet other remote R-ladies. We're excited to meet everyone and hope that the Slack channel provides us all with opportunities to be a little less remote from each other, even if we're far away.
 
 
 #First Event
 
-We will be launching our first event on ...
+We will be launching our first event on 5th of May [insert time here + discussion of what Julia will be discussing?]
 
 
 #Summary of results
 
-We'd like to share some of the responses we got to our welcome survey, to show what people want from R Ladies remote.
+Our initial survey was intended to gauge what it is our remote community needed and wanted from an RLadies Remote chapter: and you all answered! Here's some of the insights:
 
 ```{r echo=FALSE,warning=FALSE,message=FALSE}
 
@@ -190,3 +190,9 @@ g3
 g4
 
 ```
+
+Thanks for starting out on this remote journey with us, we're looking forward to meeting everyone on May 5th at our first event!
+
+Cheers,
+
+The RLadies Remote Team
